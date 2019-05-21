@@ -1,4 +1,4 @@
-# music-duration ![Travis-Build](https://travis-ci.org/necraidan/music-duration.svg?branch=master)
+# music-duration ![Travis-Build](https://travis-ci.org/necraidan/music-duration.svg?branch=master) [![npm](http://img.shields.io/npm/v/github-label-template.svg?maxAge=2592000)](https://www.npmjs.com/package/music-duration)
 
 > Calculate duration of a music file
 
